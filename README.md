@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3C+Hello%2C+I'm+Tajuddin+%2F%3E;B.Tech+CSE+Student+%7C+Cybersecurity+Enthusiast;Ethical+Hacker+%7C+CTF+Player" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=SecureByte&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=Hello,%20I'm%20Tajuddin&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=38" />
 </p>
+
+<h3 align="center">B.Tech CSE Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   I explore, learn and secure systems.<br>
@@ -20,7 +18,7 @@
 
 ---
 
-### 💻 Terminal
+### 💻 whoami
 
 \`\`\`bash
 user@secure:~$ whoami
@@ -38,7 +36,7 @@ user@secure:~$ █
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,python,bash,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,python,bash,linux,git&theme=dark" height="55"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -51,12 +49,8 @@ user@secure:~$ █
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohdtajuddinahmed0786&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdtajuddinahmed0786&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
 ---
@@ -64,20 +58,28 @@ user@secure:~$ █
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Network-Security-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Network-Security-Toolkit&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <a href="https://github.com/mohdtajuddinahmed0786/Network-Security-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdtajuddinahmed0786&repo=Network-Security-Toolkit&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/Web-Pentest-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Web-Pentest-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <a href="https://github.com/mohdtajuddinahmed0786/Web-Pentest-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdtajuddinahmed0786&repo=Web-Pentest-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/CTF-Writeups">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=CTF-Writeups&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <a href="https://github.com/mohdtajuddinahmed0786/CTF-Writeups">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdtajuddinahmed0786&repo=CTF-Writeups&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/ESP32-WiFi-BT-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ESP32-WiFi-BT-Scanner&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+  <a href="https://github.com/mohdtajuddinahmed0786/ESP32-WiFi-BT-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdtajuddinahmed0786&repo=ESP32-WiFi-BT-Scanner&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
   </a>
+</p>
+
+---
+
+### 🌐 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdtajuddinahmed0786&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
 </p>
 
 ---
